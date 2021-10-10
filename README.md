@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 
 PORTFOLIO
@@ -186,3 +187,6 @@ connect my future because this industry allows me to transform my ideas in
 
 actually working products that can be used by other people
 
+=======
+[Portfolio.pdf](https://github.com/michalooo/michalooo/files/7318090/Portfolio.pdf)
+>>>>>>> f15498a051577d1b53c6a40c6470f63698123f4f
